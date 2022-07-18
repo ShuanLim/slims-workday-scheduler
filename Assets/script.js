@@ -1,4 +1,6 @@
 $(document).ready(function(){
+    // display the current time/day on top of page
+    $('#currentDay').text(moment().format("MMMM Do YYYY, h:mm:ss a"));
     $('.saveBtn').on('click',function(){
         //store in localstorage
         var value = $(this).siblings('.description').val()
