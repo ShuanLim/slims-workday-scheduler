@@ -37,6 +37,10 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## Screenshot
+
+<img width="1019" alt="workday" src="https://user-images.githubusercontent.com/79289373/179635592-0a95a15f-57cf-44ec-a005-9747ecee57f0.png">
+
 ## Contributions
 
 <a href='https://github.com/ShuanLim'>Shuan Lim</a>
